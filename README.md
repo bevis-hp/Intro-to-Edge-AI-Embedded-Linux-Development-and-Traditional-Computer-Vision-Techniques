@@ -319,6 +319,6 @@ Congratulations on completing the foundations of Embedded Linux and Computer Vis
 However, motion detection only tells us *where* something is, but it doesn't tell us *what* it is. A waving tree branch triggers our last script just as easily as a person. To solve this, we are finally ready to step out of traditional algorithms and introduce true Edge AI.
 
 Depending on your interests, you can now move on to any of the following advanced modules:
-* **Intro to Edge AI: Object Detection and Recognition** *(Requires Raspberry Pi 5)* - Train your device to classify real-world objects using deep learning neural networks.
+* **Intro to Edge AI: Object Detection and Recognition** *(Requires Raspberry Pi 5)* - Classify real-world objects using deep learning neural networks.
 * **Intro to Edge AI: Hand Tracking and Physical Computing Applications** - Map human gestures to physical hardware actions.
 * **Intro to Edge AI: LLMs and Voice Recognition** - Build conversational interfaces that run entirely offline.
